@@ -45,13 +45,19 @@ pip install -r requirements.txt
 ```
 
 
-## Example
+<h2>Example</h2>
 
-Original Image:
-![Original Image](https://github.com/kumarr-aditya/KMeans-Image-Quantization/blob/main/test_pictures/image_portrait.png)
+<p align="center">
+  <img src="https://github.com/kumarr-aditya/KMeans-Image-Quantization/blob/main/test_pictures/image_portrait.png?raw=true" alt="Original Image" width="300"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/kumarr-aditya/KMeans-Image-Quantization/blob/main/compressed_outputs/image_portrait.png?raw=true" alt="Compressed Image" width="300"/>
+</p>
 
-Compressed Image with $k=32$:
-![Compressed Image](https://github.com/kumarr-aditya/KMeans-Image-Quantization/blob/main/compressed_outputs/image_portrait.png)
+<p align="center">
+  <strong>Left:</strong> Original Image (12.7 MB) &nbsp;&nbsp;&nbsp; 
+  <strong>    Right:</strong> Compressed Image with <i>k=32</i> (3.06 MB)
+</p>
+
 
 ## Notes
 
